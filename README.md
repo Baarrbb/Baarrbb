@@ -15,7 +15,12 @@ My projects at 42 Paris
 ### Cercle 4
 - [Philosophers](https://github.com/Baarrbb/42-Philosophers) (125/100)
 
+
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baarrbb&layout=compact&theme=github_dark)
+
+
 ### Hi there 👋
 
 
