@@ -14,7 +14,7 @@ My projects at 42 Paris
 - [minitalk](https://github.com/Baarrbb/42-minitalk) (125/100)
 ### Cercle 4
 - [Philosophers](https://github.com/Baarrbb/42-Philosophers) (125/100)
-
+- [minishell](https://github.com/Baarrbb/42-minishell) (101/100)
 
 <!--
 
