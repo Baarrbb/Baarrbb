@@ -29,7 +29,14 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baarrbb&theme=tokyonight&layout=compact&hide_border=true)
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Baarrbb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baarrbb&theme=tokyonight&layout=compact&hide_border=true)
+
+</div>
