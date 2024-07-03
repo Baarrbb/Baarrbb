@@ -7,7 +7,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 ## Common Core
 
 | Project | Description | Score |
-|:-------:|:------------|:-----:|
+|:-------:|-------------|:-----:|
 | <a href="https://github.com/Baarrbb/42-libft"><img src="./badges/libftn.png" alt="Badge" width=100><br>[Libft](https://github.com/Baarrbb/42-libft) | Coding a C library. | ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3392618)<br>21.11.23 |
 | <a href="https://github.com/Baarrbb/42-get_next_line"><img src="./badges/get_next_linen.png" alt="Badge" width=100></a><br>[get_next_line](https://github.com/Baarrbb/42-get_next_line) | Function that returns a line read from a file descriptor. | ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3427948)<br>01.12.23 |
 | <a href="https://github.com/Baarrbb/42-ft_printf"><img src="./badges/ft_printfn.png" alt="Badge" width=100></a><br>[ft_printf](https://github.com/Baarrbb/42-ft_printf) | Recode printf() | ![Score 100](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3427770)<br>06.12.23 |
