@@ -20,7 +20,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 
 ## [Piscine](https://github.com/Baarrbb/42-piscine)
 
-[![Piscine stats](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/stats?cursusId=9&coalitionId=piscine)](https://github.com/Baarrbb/42-piscine)
+[![Piscine stats](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/stats?cursusId=9&coalitionId=piscin)](https://github.com/Baarrbb/42-piscine)
 
 
 
