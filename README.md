@@ -16,7 +16,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 | <a href="https://github.com/Baarrbb/42-minitalk"><img src="./badges/minitalkn.png" alt="Badge" width=100></a><br>[minitalk](https://github.com/Baarrbb/42-minitalk) | Small data exchange program using UNIX signals. | ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3531362)<br>26.02.24 |
 | <a href="https://github.com/Baarrbb/42-Philosophers"><img src="./badges/philosophersn.png" alt="Badge" width=100></a><br>[Philosophers](https://github.com/Baarrbb/42-Philosophers) | Basics of threading a process. | ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3581891)<br>07.05.24 |
 | <a href="https://github.com/Baarrbb/42-minishell"><img src="./badges/minishelln.png" alt="Badge" width=100></a><br>[minishell](https://github.com/Baarrbb/42-minishell) | Create a simple shell. | ![Score 101](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3660948)<br>29.05.24 |
-| <a href="https://github.com/Baarrbb/42-cub3d"><img src="./badges/cub3dn.png" alt="Badge" width=100></a><br>[cub3d](https://github.com/Baarrbb/42-cub3d) | | ![Score 125](https://github.com/Baarrbb/42-cub3d)<br>06.09.24 |
+| <a href="https://github.com/Baarrbb/42-cub3d"><img src="./badges/cub3dn.png" alt="Badge" width=100></a><br>[cub3d](https://github.com/Baarrbb/42-cub3d) | This project is inspired by the world-famous Wolfstein 3D game. Make a dynamic view inside a maze. | ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3897794)<br>06.09.24 |
 
 
 ## [Piscine](https://github.com/Baarrbb/42-piscine)
