@@ -187,11 +187,18 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		</td>
 	</tr>
 	<tr>
-		<td><a href=""></a></td>
+		<td>
+			<a href="">
+				<img src="https://img.shields.io/badge/CPP Pool-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
+			</a>
+		</td>
 		<td></td>
-		<td><img src=""><br><img src=""></td>
+		<td>
+			<img src="">
+			<br>
+			<img src="">
+		</td>
 	</tr>
-
 </table>
 
 <!-- ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3392618)  -->
