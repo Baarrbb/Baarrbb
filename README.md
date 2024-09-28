@@ -188,7 +188,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 	</tr>
 	<tr>
 		<td>
-			<a href="">
+			<a href="https://github.com/Baarrbb/42-piscine_CPP">
 				<img src="https://img.shields.io/badge/CPP Pool-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
 			</a>
 		</td>
