@@ -34,7 +34,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		<th style="text-align: center;">Score</th>
 	</tr>
 	<tr>
-		<th colspan="3" style="text-align: center;">Circle 1</th>
+		<th colspan="3" style="text-align: center; background-color: #e0e0e0;">Circle 1</th>
 	</tr>
 	<tr>
 		<td style="vertical-align: middle; text-align: center;">
@@ -52,7 +52,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		</td>
 	</tr>
 	<tr>
-		<th colspan="3" style="text-align: center;">Circle 2</th>
+		<th colspan="3" style="text-align: center; background-color: #e0e0e0;">Circle 2</th>
 	</tr>
 	<tr>
 		<td>
@@ -81,7 +81,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		</td>
 	</tr>
 	<tr>
-		<th colspan="3" style="text-align: center;">Circle 3</th>
+		<th colspan="3" style="text-align: center; background-color: #e0e0e0;">Circle 3</th>
 	</tr>
 	<tr>
 		<td>
@@ -123,7 +123,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		</td>
 	</tr>
 	<tr>
-		<th colspan="3" style="text-align: center;">Circle 4</th>
+		<th colspan="3" style="text-align: center; background-color: #e0e0e0;">Circle 4</th>
 	</tr>
 	<tr>
 		<td>
@@ -152,7 +152,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		</td>
 	</tr>
 	<tr>
-		<th colspan="3" style="text-align: center;">Circle 5</th>
+		<th colspan="3" style="text-align: center; background-color: #e0e0e0;">Circle 5</th>
 	</tr>
 	<tr>
 		<td>
