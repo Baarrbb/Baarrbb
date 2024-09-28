@@ -20,12 +20,15 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 
 <!-- <img src="https://img.shields.io/badge/21.11.2023-0?style=plastic&color=818181"> -->
 
-<!-- <style>
+<style>
 	td {
 		vertical-align: middle;
 		text-align: center;
 	}
-</style> -->
+	th {
+		background-color: #e0e0e0;
+	}
+</style>
 
 <table>
 	<tr>
