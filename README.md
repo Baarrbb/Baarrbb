@@ -43,14 +43,12 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
-			&nbsp;Coding a C library.&nbsp;
+			Coding a C library.
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
-			<div style="vertical-align: middle; text-align: center;">
-				<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3392618">
-				<br>
-				<img src="https://img.shields.io/badge/21.11.2023-0?style=plastic&color=818181">
-			</div>
+			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3392618">
+			<br>
+			<img src="https://img.shields.io/badge/21.11.2023-0?style=plastic&color=818181">
 		</td>
 	</tr>
 	<tr>
