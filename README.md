@@ -37,7 +37,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		<th style="text-align: center;">Score</th>
 	</tr>
 	<tr>
-		<th colspan="3" style="text-align: center; height: 10px;">Circle 1</th>
+		<th colspan="3" style="text-align: center; line-height: 10px;">Circle 1</th>
 	</tr>
 	<tr>
 		<td style="vertical-align: middle; text-align: center;">
