@@ -43,7 +43,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
-			<div style="display: flex; justify-content: center;">Coding a C library.</div>
+			&nbsp;Coding a C library.&nbsp;
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<div style="vertical-align: middle; text-align: center;">
