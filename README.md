@@ -189,7 +189,24 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 	<tr>
 		<td>
 			<a href="https://github.com/Baarrbb/42-piscine_CPP">
-				<img src="https://img.shields.io/badge/CPP Pool-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
+				<img src="https://img.shields.io/badge/CPP%20Pool%20Pt1-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
+				<!-- <img src="https://img.shields.io/badge/CPP Pool-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff"> -->
+			</a>
+		</td>
+		<td></td>
+		<td>
+			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3923060">
+			<br>
+			<img src="https://img.shields.io/badge/26.09.2024-0?style=plastic&color=818181">
+		</td>
+	</tr>
+	<tr>
+		<th colspan="3" style="text-align: center;">Circle 6</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Baarrbb/42-piscine_CPP">
+				<img src="https://img.shields.io/badge/CPP%20Pool%20Pt2-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
 			</a>
 		</td>
 		<td></td>
@@ -199,6 +216,7 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 			<img src="">
 		</td>
 	</tr>
+
 </table>
 
 <!-- ![Score 125](https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3392618)  -->
