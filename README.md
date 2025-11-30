@@ -211,9 +211,9 @@ My projects at 42 Paris - <a href="https://profile.intra.42.fr/users/bsuc" targe
 		</td>
 		<td></td>
 		<td>
-			<img src="">
+			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4353261">
 			<br>
-			<img src="">
+			<img src="https://img.shields.io/badge/18.11.2025-0?style=plastic&color=818181">
 		</td>
 	</tr>
 
