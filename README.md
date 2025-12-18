@@ -62,11 +62,11 @@
 <details>
 	<summary><b>Circle 2</b></summary>
 	<br>
-	<table width="100%">
+	<table>
 		<tr>
-			<th width="30%" style="text-align: center;">Project</th>
-			<th width="50%" style="text-align: center;">Description</th>
-			<th width="20%" style="text-align: center;">Score</th>
+			<th style="text-align: center;">Project</th>
+			<th style="text-align: center;">Description</th>
+			<th style="text-align: center;">Score</th>
 		</tr>
 		<tr>
 			<td style="vertical-align: middle; text-align: center;">
